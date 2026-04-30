@@ -328,9 +328,6 @@ The detector uses **DBSCAN (Density-Based Spatial Clustering)** to identify crow
 - **scipy** — Scientific computing
 - **python-dotenv** — Environment variable management
 
-## License
-
-MIT License
 
 ## Author
 
